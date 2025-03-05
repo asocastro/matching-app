@@ -33,7 +33,7 @@ This application follows a client-server architecture:
 1. Clone the repository:
    ```
    git clone <repository-url>
-   cd seeker-provider-matching
+   cd matching-app
    ```
 
 2. Frontend Setup:
