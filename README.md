@@ -56,7 +56,9 @@ This application follows a client-server architecture:
    ```
    npm run dev
 
-   # open a new terminal and use this change the 5000 below to the port your pc is using from the node terminal.
+   # open a new terminal and use this change the 5000 value 
+   below to the port your pc is using from the node terminal.
+
    ngrok http --url=willing-donkey-gentle.ngrok-free.app 5000
 
    go to the link below: 
@@ -65,6 +67,9 @@ This application follows a client-server architecture:
    ```
 
 5. Access the application at `https://willing-donkey-gentle.ngrok-free.app`
+
+6. Let me know if you have any other questions or can't run the code. But please
+do let me know when you're done reviewing this so I can take down the supabase, OAuth, and NGrok instances.
 
 
 ## Known Limitations and Future Enhancements
